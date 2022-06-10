@@ -1,4 +1,4 @@
-
+//https://www.youtube.com/watch?v=XCWhTG65A0s&ab_channel=PabloPoblete
 
 PImage ilusion;
 PImage ilusion2;
@@ -7,7 +7,6 @@ PImage ilusion4;
 PImage ilusion5;
 PImage ilusion6;
 
-int total;
 float pantalla;
 int contador;
 
